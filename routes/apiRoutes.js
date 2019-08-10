@@ -19,8 +19,8 @@ module.exports = function(app) {
       Type1: req.body.type,
       Bio: req.body.bio,
       Temp: req.body.temperament,
-      Act: req.body.activity
-    
+      Act: req.body.activity,
+      Image: req.body.image
     })
       .then(function(data) {
         console.log("success")
