@@ -25,7 +25,7 @@ module.exports = function(sequelize, DataTypes) {
           len: [1]
         }
     },
-    Type: {
+    Type1: {
         type: DataTypes.STRING,
         allowNull: false,
         validate: {
@@ -46,13 +46,7 @@ module.exports = function(sequelize, DataTypes) {
           len: [1]
         }
     },
-    Type: {
-        type: DataTypes.STRING,
-        allowNull: false,
-        validate: {
-          len: [1]
-        }
-    },
+  
     Act: {
         type: DataTypes.STRING,
         allowNull: false,

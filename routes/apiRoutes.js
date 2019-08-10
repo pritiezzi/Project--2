@@ -8,11 +8,25 @@ module.exports = function(app) {
     });
   });
 
-  // Create a new example
-  app.post("/api/examples", function(req, res) {
-    db.Example.create(req.body).then(function(dbExample) {
-      res.json(dbExample);
-    });
+   // POST route for saving a new post
+   app.post("/api/profile", function(req, res) {
+    console.log(req.body)
+    db.petProfile.create({
+      Pet_name: req.body.name,
+      Gender: req.body.gender,
+      Age: req.body.age,
+      Breed: req.body.breed,
+      Type1: req.body.type,
+      Bio: req.body.bio,
+      Temp: req.body.temperament,
+      Act: req.body.activity
+    
+    })
+      .then(function(data) {
+        console.log("success")
+
+        res.json("success");
+      });
   });
 
   // Delete an example by id
