@@ -46,7 +46,13 @@ module.exports = function(sequelize, DataTypes) {
           len: [1]
         }
     },
-  
+    Type1: {
+        type: DataTypes.STRING,
+        allowNull: false,
+        validate: {
+          len: [1]
+        }
+    },
     Act: {
         type: DataTypes.STRING,
         allowNull: false,
