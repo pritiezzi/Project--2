@@ -1,4 +1,8 @@
 var db = require("../models");
+const express = require('express');
+const router = express.Router();
+
+
 
 module.exports = function(app) {
   // Load index page
@@ -26,10 +30,13 @@ module.exports = function(app) {
   // });
 
     app.get('/', function(req, res){
-
-
-      res.render("index")
-    })
+      db.petProfile.findAll({limit:3}).then(function(petProfile) {
+        console.log(petProfile);
+        res.render("index",{
+          profiles: petProfile
+        });
+      });
+    });
 
     app.get('/browse', function(req, res){
 
