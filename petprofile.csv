@@ -1,0 +1,5 @@
+id,Pet_name,Gender,Age,Breed,Type1,Bio,Temp,Act,Image,createdAt,updatedAt
+1,Lexi,female,8,yorkie-poo,dog,"I'm Lexi I like belly rubs, playing fetch, short walks and bananas",passive-agressive,fetch,https://www.dogbreedinfo.com/images12/yorkipooPierre22394324.JPG,"2019-08-13 00:40:19","2019-08-13 00:40:19"
+2,Tank,male,8,"short hair",cat,"I'm Tank I like taking long naps, playing hide and seek and sneaking out of the house.",passive-agressive,"hide and seek",http://seeclickfix.com/files/issue_images/0007/1935/stray_cat_3.jpg,"2019-08-13 00:50:40","2019-08-13 00:50:40"
+3,Cain,male,8,"short hair",cat,"I'm Cain I like chasing mice, playing hide and seek and brining gifts to my mommy.",relaxed,"hide and seek",https://i.pinimg.com/736x/a3/e7/d6/a3e7d6b1ca3e165a9ccb281ec8fb7c4a--snow-white-cat-photography.jpg,"2019-08-13 00:54:33","2019-08-13 00:54:33"
+4,Bruno,male,8,"german sherpard",dog,"I'm Bruno I like long runs, chasing cars, barking at my neighbors  and belly rubs.",aggressive,"hide and seek",https://media.mnn.com/assets/images/2015/02/sherman.jpg,"2019-08-13 00:58:53","2019-08-13 00:58:53"
