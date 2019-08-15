@@ -1,0 +1,16 @@
+id,Pet_name,Gender,Age,Breed,Type1,Bio,Temp,Act,Image,createdAt,updatedAt
+1,rufus,female,4,doberman,dog,police dog,vigilant,sniffing for drugs,https://www.ctvsh.com/sites/default/files/styles/large/adaptive-image/public/doberman-pinscher-dog-breed-info.jpg?itok=2Kna4naG,8/13/2019 20:51,8/13/2019 20:51
+2,Sir Barksalot,male,2,corgi,dog,likes to bark at everything and play,playful,barking running,https://upload.wikimedia.org/wikipedia/commons/0/0f/Welsh_Corgi_Pembroke_WPR_Kamien_07_10_07.jpg,8/13/2019 21:26,8/13/2019 21:26
+3,Emerald,female,2,Tabby,cat,a curious kitty,curious,"likes to sit around,watch, pounce, and sometimes scatch",https://www.catster.com/wp-content/uploads/2017/11/Tabby-cat-opener.jpg,8/13/2019 21:29,8/13/2019 21:29
+4,Cleopatra,male,2,Abyssinian,cat,walks around like he owns the place,regal,"playful,curious, and always meowing for something",https://www.purina.com.au/-/media/Project/Purina/Main/Breeds/Cat/Mobile/Cat_Abyssinian_Mobile.jpg?h=300&la=en&w=375&hash=5F9878D8DECBED6B1795161CEC50C74A,8/13/2019 21:43,8/13/2019 21:43
+5,Lassie,male,2,Rough Collie,dog,the perfect dog,loving and dutiful,protects and is playful,https://animalsbreeds.com/wp-content/uploads/2015/08/Rough-Collie-4.jpg,8/13/2019 21:51,8/13/2019 21:51
+6,gambo,male,2,labrador,dog,Hi my name is gambo im very active and very clumsy,active,feching,https://www.orvis.com/labrador-retriever,8/13/2019 0:51,8/13/2019 0:51
+7,britney,female,4,puddle,dog,Hi my name is britney and i am the prettiest girl in the park,active,posing,https://www.greenfieldpuppies.com/standard-poodle-puppies-for-sale/,8/13/2019 0:53,8/13/2019 0:53
+8,capone,male,12,pug,dog,FOOD FOOD FOOD,lazy and hungry,eating,http://www.vetstreet.com/dogs/pug,8/13/2019 0:56,8/13/2019 0:56
+9,paris,male,8,tuxedo,cat,About to start a cat revotion ,passive-agressive,thinking,https://www.felineliving.net/tuxedo-cats/,8/13/2019 0:58,8/13/2019 0:58
+10,Lexi,female,8,yorkie-poo,dog,"I'm Lexi I like belly rubs, playing fetch, short walks and bananas",passive-agressive,fetch,https://www.dogbreedinfo.com/images12/yorkipooPierre22394324.JPG,8/13/2019 0:40,8/13/2019 0:40
+11,Tank,male,8,short hair,cat,"I'm Tank I like taking long naps, playing hide and seek and sneaking out of the house.",passive-agressive,hide and seek,http://seeclickfix.com/files/issue_images/0007/1935/stray_cat_3.jpg,8/13/2019 0:50,8/13/2019 0:50
+12,Cain,male,8,short hair,cat,"I'm Cain I like chasing mice, playing hide and seek and brining gifts to my mommy.",relaxed,hide and seek,https://i.pinimg.com/736x/a3/e7/d6/a3e7d6b1ca3e165a9ccb281ec8fb7c4a--snow-white-cat-photography.jpg,8/13/2019 0:54,8/13/2019 0:54
+13,Bruno,male,8,german sherpard,dog,"I'm Bruno I like long runs, chasing cars, barking at my neighbors  and belly rubs.",aggressive,hide and seek,https://media.mnn.com/assets/images/2015/02/sherman.jpg,8/13/2019 0:58,8/13/2019 0:58
+14, rex,male,7,st bernard,dog,river floater,mean,slow,https://en.wikipedia.org/wiki/St._Bernard_(dog)#/media/File:Hummel_Vedor_vd_Robandahoeve.jpg,8/13/2019 1:15,8/13/2019 1:15
+15, rex,male,7,st bernard,dog,river floater,mean,slow,https://image.shutterstock.com/image-illustration/cute-little-dog-cartoon-sitting-260nw-1011793042.jpg,8/15/2019 0:07,8/15/2019 0:07
