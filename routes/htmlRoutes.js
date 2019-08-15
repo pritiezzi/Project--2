@@ -39,9 +39,12 @@ module.exports = function(app) {
     });
 
     app.get('/browse', function(req, res){
-
-
-      res.render('browse' )
+      db.petProfile.findAll({}).then(function(dbProfiles) {
+        console.log('dbProfiles',dbProfiles);
+        res.render("browse", {
+          friends: dbProfiles
+        });
+      });
     })
 
     app.get('/profile', function(req, res){

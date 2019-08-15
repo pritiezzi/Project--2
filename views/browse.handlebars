@@ -1,19 +1,38 @@
 <div class="container">
   <div class="row">
-    <div class="col-8 offset-2">
+
+
+     {{#each friends}}
+     {{!-- exapmle to creat all my colums i made --}}
+    {{!-- <div class="col-4">
       <div class="card mt-4">
         <div class="card-body">
-          <h5 class="card-title">browse</h5>
-          <p>
-            <strong>ID</strong>: {{example.id}}</p>
-          <p>
-          <p>
-            <strong>Text</strong>: {{example.text}}</p>
-          <p>
-            <strong>Description:</strong> {{example.description}}</p>
-            <a href="/">← Back To Home</a>
+          <h5 class="card-title">{{dataValues.Pet_name}}</h5>
+          <h5 class="card-title">{{dataValues.Gender}}</h5>
+          
         </div>
       </div>
-    </div>
+    </div> --}}
+    <div class="card" style="width: 18rem;">
+  <img src={{dataValues.Image}} class="card-img-top" alt="...">
+  <div class="card-body">
+    <h1 class="card-title">{{dataValues.Pet_name}}</h1>
+    <p class="card-title">{{dataValues.Gender}}</p>
+    <p class="card-title">{{dataValues.Age}}</p>
+    <p class="card-title">{{dataValues.Breed}}</p>
+    <p class="card-title">{{dataValues.Type1}}</p>
+    <p class="card-title">{{dataValues.Bio}}</p>
+    <p class="card-text">{{dataValues.Temp}}</p>
+    <p class="card-title">{{dataValues.Act}}</p>
+    <a href="#" class="btn btn-primary">See profile</a>
+  </div>
+</div>
+
+
+    {{/each}}
+
+
+
+
   </div>
 </div>
