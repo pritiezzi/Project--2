@@ -1,0 +1,9 @@
+id,Pet_name,Gender,Age,Breed,Type1,Bio,Temp,Act,Image,createdAt,updatedAt
+1," rex",male,7,"st bernard",dog,"river floater",mean,slow,https://en.wikipedia.org/wiki/St._Bernard_(dog)#/media/File:Hummel_Vedor_vd_Robandahoeve.jpg,"2019-08-13 01:15:36","2019-08-13 01:15:36"
+2," rex",male,7,"st bernard",dog,"river floater",mean,slow,https://image.shutterstock.com/image-illustration/cute-little-dog-cartoon-sitting-260nw-1011793042.jpg,"2019-08-15 00:07:32","2019-08-15 00:07:32"
+3," rex",male,7,"st bernard",dog,"river floater",mean,slow,https://image.shutterstock.com/image-illustration/cute-little-dog-cartoon-sitting-260nw-1011793042.jpg,"2019-08-15 00:07:49","2019-08-15 00:07:49"
+4," rex",male,7,"st bernard",dog,"lives under the house ",mean,slow,https://itotd.com/files/2019/04/dog-1436192-696x542.jpg,"2019-08-15 00:51:38","2019-08-15 00:51:38"
+5," rex",male,7,"st bernard",dog,"lives under the house ",mean,slow,https://itotd.com/files/2019/04/dog-1436192-696x542.jpg,"2019-08-15 00:53:47","2019-08-15 00:53:47"
+6," rex",male,7,"st bernard",dog,"lives under the house ",mean,slow,https://itotd.com/files/2019/04/dog-1436192-696x542.jpg,"2019-08-15 00:53:55","2019-08-15 00:53:55"
+7," rex",male,7,"st bernard",dog,"lives under the house ",mean,slow,https://itotd.com/files/2019/04/dog-1436192-696x542.jpg,"2019-08-15 00:54:54","2019-08-15 00:54:54"
+8," rex",male,7,"st bernard",dog,"lives under the house ",mean,slow,https://itotd.com/files/2019/04/dog-1436192-696x542.jpg,"2019-08-15 01:08:09","2019-08-15 01:08:09"
