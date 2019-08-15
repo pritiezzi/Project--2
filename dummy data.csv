@@ -1,0 +1,10 @@
+id,Pet_name,Gender,Age,Breed,Type1,Bio,Temp,Act,Image,createdAt,updatedAt
+1,wolf,female,"5 mounths",huskey,dog,"Hi i am a 1 year old","a bit crankey","play around",https://www.goodhousekeeping.com/life/pets/advice/g1825/medium-sized-dogs/,"2019-08-13 02:24:53","2019-08-13 02:24:53"
+2,Ryan,male,"7 mounths","Pitbull blue nose",dog,"Hi i am a 7 year old i am fun puppu to play with i dont hurt","always happy","chew my toys",https://www.allthingsdogs.com/wp-content/uploads/2018/09/Blue-Nose-Pitbull-1.jpg,"2019-08-13 02:31:00","2019-08-13 02:31:00"
+3,"Queen of England",male,"1 year",corgi,dog,"i am the son of queen of england",sleepy,palyfull,https://www.allthingsdogs.com/wp-content/uploads/2018/09/Blue-Nose-Pitbull-1.jp,"2019-08-13 02:39:30","2019-08-13 02:39:30"
+4,zues,mal,"2  year",huskey,dog,"i am the leader of the pact","good ",mountains,https://cdn.orvis.com/images/DBS_SibHusky.jpg,"2019-08-14 21:49:44","2019-08-14 21:49:44"
+5,Roxy,female,"5  year",doberman,dog,"i am the leader of the pact i protect my family and love them but i am also playfull","good ","protecting ",http://www.ma.urbinfo.com/wp-content/uploads/2016/07/44444.jpg,"2019-08-14 21:59:42","2019-08-14 21:59:42"
+6,dobby,male,"3 year",dalmata,dog,"i am friendly gets along with all dogs",good,fetch,https://www.caniegatti.info/wp-content/uploads/cane-dalmata-foto-razza-canina.jpg,"2019-08-14 22:07:14","2019-08-14 22:07:14"
+7,Mati,male,"3 months","i dont know",cat,"i am a clumsy cat",clumsy,yarn,https://i.ytimg.com/vi/VPFvIauSusY/maxresdefault.jpg,"2019-08-14 22:10:21","2019-08-14 22:10:21"
+8,salem,male,"3 months","i dont know",cat,"my oner is a witch but the good ones","clumsy ",outside,https://cdn.pixabay.com/photo/2018/01/25/16/07/cute-3106473_960_720.jpg,"2019-08-14 22:14:25","2019-08-14 22:14:25"
+9,cloudy,female,"3 years","i dont know",cat,"i sleep a lot but i like to play","clumsy ",sleep,https://d17fnq9dkz9hgj.cloudfront.net/uploads/2018/03/Russian-Blue_01.jpg,"2019-08-14 22:20:04","2019-08-14 22:20:04"
