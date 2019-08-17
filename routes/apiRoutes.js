@@ -11,7 +11,7 @@ module.exports = function(app) {
    // POST route for saving a new post
    app.post("/api/profile", function(req, res) {
     console.log(req.body)
-    /*db.petProfile.create({
+    db.petProfile.create({
       Pet_name: req.body.name,
       Gender: req.body.gender,
       Age: req.body.age,
@@ -21,12 +21,12 @@ module.exports = function(app) {
       Temp: req.body.temperament,
       Act: req.body.activity,
       Image: req.body.image
-    })*/
-      // .then(function(data) {
-        //console.log("success")
-        var testobj= req.body
-        res.json(testobj);
-      //});
+    })
+      .then(function(data) {
+        console.log("success")
+
+        res.json("success");
+      });
   });
 
   // Delete an example by id
