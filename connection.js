@@ -8,10 +8,10 @@ if (process.env.JAWSDB_URL) {
 } else {
     // DB is local on localhost
     connection = mysql.createConnection({
-        host: 'localhost',
-        user: 'root',
-        password: 'root',
-        database: 'petfriender'
+        host: 'q57yawiwmnaw13d2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+        user: 'eaqoimawy9z8xxwb',
+        password: 'wyyoqpy2lmm6d6cw',
+        database: 'w42dj4cpjq3w0emd'
     });
 };
 
