@@ -1,21 +1,21 @@
 {
   "development": {
-    "username": "root",
-    "password": "password",
-    "database": "petfriender",
-    "host": "localhost",
+    "username": "furl3wztsc8wa7ab",
+    "password": "frbn1mmltkgc69qf",
+    "database": "zdg13pi08gfjp0hu",
+    "host": "thh2lzgakldp794r.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": "password",
-    "database": "petfriender",
-    "host": "localhost",
+    "username": "furl3wztsc8wa7ab",
+    "password": "frbn1mmltkgc69qf",
+    "database": "zdg13pi08gfjp0hu",
+    "host": "thh2lzgakldp794r.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql",
     "logging": false
   },
   "production": {
-    "use_env_variable": "JAWSDB_URL",
+    "use_env_variable": "mysql://furl3wztsc8wa7ab:frbn1mmltkgc69qf@thh2lzgakldp794r.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/zdg13pi08gfjp0hu",
     "dialect": "mysql"
   }
 }
